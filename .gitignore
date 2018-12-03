@@ -1,0 +1,5 @@
+glove/*.txt
+glove/*.dat
+glove/*.pkl
+
+.vscode
